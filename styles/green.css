@@ -1,0 +1,41 @@
+body {
+	background-color:#E6FBD8;
+	}
+	
+#footer {
+	background:#F4FCE7;
+	}
+	
+	#footer .copyright {
+		background:#ECF7DB;
+		}
+		
+#wrapper {
+	border-left:1px solid #CFEDC0;
+	border-right:1px solid #CFEDC0;
+	}
+	
+	
+a {color: #5A9C02;}
+a:hover {color: #6DB820;}
+
+
+.dropdown a:hover {  text-shadow: none; color: #6DB820; }
+.dropdown li:hover a { color: #6DB820; text-shadow: none;  }
+li.current-menu-item a,  li.current_page_item a,  li.current-menu-ancestor a,  li.current-menu-parent a,  li.current_page_parent  a {  color: #6DB820; }
+
+.aside h4 {
+	color: #6DB820;
+ 
+}
+
+#portfolio .ext .p {
+    color: #6DB820;
+    }
+    
+#portfolio  .meta a:hover {
+    color: #6DB820;
+}
+
+
+#footer a:hover {color:#6DB820;}

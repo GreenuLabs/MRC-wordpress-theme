@@ -1,0 +1,17 @@
+body {
+	background-color:#D8E8FB;
+	}
+	
+#footer {
+	background:#EDF0F4;
+	}
+	
+	#footer .copyright {
+		background:#E2E7EE;
+		}
+		
+#wrapper {
+	border-left:1px solid #C0DAED;
+	border-right:1px solid #C0DAED;
+	}
+	
